@@ -17,4 +17,4 @@ module.exports = {
   DB_PASSWORD,
   STRIPE_API_KEY,
   CONNECTION_STRING
-};
+}; 
